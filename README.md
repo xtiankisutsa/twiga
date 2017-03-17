@@ -7,7 +7,7 @@ A tool that enumerates Android devices for information useful in understanding i
 
 ## Limitations
 1. Some information and files cannot be pulled higher up the SDK version due to strict SELinux policies and android hardening. 
-* Can only run on one device at a time for now
+* It can only run on one device at a time for now
 
 ## To Do
 1. Pull device info, file and binaries from a device in multiple devices at a time
@@ -17,7 +17,7 @@ A tool that enumerates Android devices for information useful in understanding i
 
 ## Inpired by:
 * LinEnum - https://github.com/rebootuser/LinEnum
-* linuxprivchecker - https://www.securitysift.com/download/linuxprivchecker.py
-* unix-privesc-check - https://github.com/inquisb/unix-privesc-check 
+* Linuxprivchecker - https://www.securitysift.com/download/linuxprivchecker.py
+* Unix-privesc-check - https://github.com/inquisb/unix-privesc-check 
 * Basic Linux Privilege Escalation - https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
 
