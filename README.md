@@ -1,5 +1,5 @@
 # Twiga
-A tool that enumerates Android devices for information useful in understanding its internals and for exploit development. It supports android 4.2 to Android 7.1.1 
+A tool that enumerates Android devices for information useful in understanding its internals and for exploit development. It supports android 4.2 to android 7.1.1 
 
 ## Requirements
 * The most current ADB must be in your path and fully functional
