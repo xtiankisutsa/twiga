@@ -10,7 +10,6 @@ A tool that enumerates Android devices for information useful in understanding i
 * It can only run on one device at a time for now
 
 ## To Do
-* Pull device info, file and binaries from a device in multiple devices at a time
 * Support for enumeration on a rooted device
 * Support enumeration on multiple devices at a time 
 * Generate PDF report on the enumartuon data 
