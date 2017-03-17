@@ -1,6 +1,8 @@
 # Twiga
 A tool that enumerates Android devices for information useful in understanding its internals and for exploit development. It supports android 4.2 to android 7.1.1 
 
+![Alt] (https://raw.githubusercontent.com/xtiankisutsa/twiga/master/help.png)
+
 ## Requirements
 * The most current ADB must be in your path and fully functional
 * The report name must not have any whitespace 
