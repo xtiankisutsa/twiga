@@ -16,7 +16,7 @@ A tool that enumerates Android devices for information useful in understanding i
 * Support enumeration on multiple devices at a time 
 * Generate PDF report on the enumartuon data 
 
-## Inspired by:
+## Inspired by
 * LinEnum - https://github.com/rebootuser/LinEnum
 * Linuxprivchecker - https://www.securitysift.com/download/linuxprivchecker.py
 * Unix-privesc-check - https://github.com/inquisb/unix-privesc-check 
