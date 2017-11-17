@@ -14,7 +14,7 @@ A tool that enumerates Android devices for information useful in understanding i
 ## To Do
 * Support for enumeration on a rooted device
 * Support enumeration on multiple devices at a time 
-* Generate PDF report on the enumartuon data 
+* Generate PDF report on the enumeration data 
 
 ## Inspired by
 * LinEnum - https://github.com/rebootuser/LinEnum
